@@ -4,7 +4,7 @@
 
 ## 使用
 
-![](https://lee-img-bed.oss-cn-shenzhen.aliyuncs.com/example.png?Expires=1584371497&OSSAccessKeyId=TMP.3KiPLiZL5KMwL961udjCF6U9HGw4nEmKT7uKKzqHMt7mpXFfC8TPguHgBt889bL8BELcg7cEve2GQdzUns1zYjUh6x1Us4&Signature=BywPbnHvLQa8D%2BG5WQGAX4Zd2qM%3D)
+![](https://lee-img-bed.oss-cn-shenzhen.aliyuncs.com/example.png)
 
 1. 红框内容是你的**Maven模块名**。
 2. 篮框内容是你的**包名**。
