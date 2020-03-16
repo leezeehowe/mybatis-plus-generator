@@ -4,7 +4,7 @@
 
 ## 使用
 
-![](https://lee-img-bed.oss-cn-shenzhen.aliyuncs.com/example.png)
+![add image](https://lee-img-bed.oss-cn-shenzhen.aliyuncs.com/example.png)
 
 1. 红框内容是你的**Maven模块名**。
 2. 篮框内容是你的**包名**。
